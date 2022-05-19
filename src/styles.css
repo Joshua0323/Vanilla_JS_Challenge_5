@@ -1,0 +1,10 @@
+body {
+  /* background: linear-gradient(270deg, #b5ffe1, #edcfff); */
+}
+
+form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
